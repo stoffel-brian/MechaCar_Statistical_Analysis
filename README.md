@@ -86,3 +86,40 @@ The Manufacturing Lots are relatively similar in PSI.
 1. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 Nope, there is too much variance in the dataset. I mean, you could go ahead with the manufacturing, but that's straight-up bananas. 
+
+
+#### T-Tests on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/90878973/149640025-44508658-e905-4a16-a95c-e97ab9c6cb63.png)
+
+The T-test () is reoughly testing a hypothesis against the dataset. Seems legit.
+
+
+
+#### Study Design: MechaCar vs Competition
+
+
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+In your description, address the following questions:
+1. What metric or metrics are you going to test?
+2. What is the null hypothesis or alternative hypothesis?
+3. What statistical test would you use to test the hypothesis? And why?
+4. What data is needed to run the statistical test?
+
+
+There is quite a bit of information to comprehend and digest for comparing MechaCar against the competiton. Firstly, we need to fully understand the very definition of competition for MechaCar. Is the competition regionall, nationally, internationally, etc.? Additionally we firstly need a throughly understanding of the competition and how it fits into the direct or indirect competition with Mechacar. Are all the competitors directly competing with MechaCar or some only indirectly competiting with MechaCar? These are very brief questions that need to be understood for an analysis of the competition. There are limitless metrics to compare competition against MechaCar. I just listed a few and the Challenge instructions had a few good ones (cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating).I think MechaCar should forgo all safety, maintenance, and energy efficienty comparisons and focus solely on horese power and style. This might be a niche market that competitiosn is difficult to copy and repeat.   
+
+1. What metric or metrics are you going to test?
+
+Only the horsepower and style scale.
+
+2. What is the null hypothesis or alternative hypothesis?
+
+Consumers want a product with style and horsepower.
+
+3. What statistical test would you use to test the hypothesis? And why?
+Whether MechaCar's horsepower and style are standardized in production which would produce a sustainable competitive advantage in the marketplace against the competition. 
+
+5. What data is needed to run the statistical test?
+Style scores and horsepower ratings. 
